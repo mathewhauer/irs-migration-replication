@@ -3,8 +3,8 @@
 ## IRS County-to-County Migration Data
 ##       Master Script
 ##
-## Authors: Mathew Hauer, mehauer@fsu.edu
-##          James Byars, jmbyars@uga.edu
+## Authors: 
+##          
 ## Last updated: 08/16/2018
 ##
 ######################################################
