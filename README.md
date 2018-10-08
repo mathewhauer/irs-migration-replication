@@ -1,12 +1,5 @@
 # Introduction
-Here I provide the code for:  [**IRS County-to-County Migration Data**](https://github.com/mathewhauer/IRS-migration-data/blob/master/manuscript_file.pdf)
-
-### Citation
-
-
-> Hauer, M.E. *Open Science Framework.* (DOI Forthcoming) (YEAR ACCESSED).
-
-
+Here I provide the code for:  [**IRS County-to-County Migration Data, 1990-2010**]
 
 # Abstract
 
@@ -47,9 +40,6 @@ The final IRS migration data can be downloaded at `DATA-PROCESSED/county_migrati
 - Refers to number of migrants who moved from ORIGIN to DESTINATION in a given year.
 
 - NOTE: there is an additional 5-digit FIPS code in the both the ORIGIN and DESTINATION field. This is coded as 99999 and is in reference to all migration flows containing less than 10 tax filers.
-
-# Correspondence
-For any issues with the functionality of these scripts please [create an issue](https://github.com/mathewhauer/IRS-migration-data/issues).
 
 ## License
 The data collected and presented is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying code used to format, analyze and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
